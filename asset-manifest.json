@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c9c1011.css",
+    "main.js": "/static/js/main.f5b8909d.js",
+    "static/media/neural.png": "/static/media/neural.5971cbd7624631be7284.png",
+    "static/media/Algorithm.png": "/static/media/Algorithm.828b489e8953e949b7dd.png",
+    "static/media/sorting.png": "/static/media/sorting.3272770847b1b846acd4.png",
+    "index.html": "/index.html",
+    "main.9c9c1011.css.map": "/static/css/main.9c9c1011.css.map",
+    "main.f5b8909d.js.map": "/static/js/main.f5b8909d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9c1011.css",
+    "static/js/main.f5b8909d.js"
+  ]
+}
