@@ -2,14 +2,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://sansarj17.github.io/SortingVisualizer-React">
+  <a href="https://sorting-visualizer-sj17.netlify.app/">
     <img src="./src/assets/sorting.png" style="margin:0 auto;" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Sorting Visualizer</h3>
 
   <p align="center">
-    <a href="https://sansarj17.github.io/SortingVisualizer-React">View Live</a>
+    <a href="https://sorting-visualizer-sj17.netlify.app/">View Live</a>
 	·
     <a href="https://github.com/sansarj17/SortingVisualizer-React">Repo</a>
   </p>
