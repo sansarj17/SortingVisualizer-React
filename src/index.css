@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div::-webkit-scrollbar {
+    width: 0px; /* width of the entire scrollbar */
+}
+div::-webkit-scrollbar-track {
+    background: transparent; /* color of the tracking area */
+}
+
+div::-webkit-scrollbar-thumb {
+}
+
+/* .pageWrapperlogin {
+    background-image: url("./assets/wpAssets/whatsappBG.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+} */
+
+.centerChat {
+}
+
+.bar,
+.icon-wrapper {
+    transition: all ease-in-out 0.1s;
+}
+.activeSort {
+    @apply bg-blue-500 text-white shadow-md;
+}
+.disabledButton {
+    @apply opacity-75;
+}
+
+.comparedFrom {
+    @apply shadow-xl translate-y-[4px];
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    /* -webkit-appearance: none; */
+}
+input[type="range"]::-webkit-slider-runnable-track {
+    /* -webkit-appearance: none; */
+    /* @apply */
+}
+
+body::-webkit-scrollbar {
+    width: 6px;
+}
+
+body::-webkit-scrollbar-track {
+    @apply bg-white;
+}
+
+body::-webkit-scrollbar-thumb {
+    @apply bg-blue-500 rounded;
+}
